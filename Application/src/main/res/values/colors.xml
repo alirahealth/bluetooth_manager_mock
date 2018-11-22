@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lollipop color -->
+    <color name="primary">#847170</color>
+    <color name="primary_dark">#574645</color>
+    <color name="primary_light">#B49f9E</color>
+    <color name="accent">#33658A</color>
+    <color name="primary_text">#705D5D</color>
+    <color name="secondary_text">#585756</color>
+    <color name="icons">#ffffff</color>
+    <color name="divider">#B6B6B6</color>
+
+</resources>
